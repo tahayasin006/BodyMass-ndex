@@ -1,1 +1,1 @@
-# BodyMass-ndex
+# BodyMass-index
